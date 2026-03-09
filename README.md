@@ -15,7 +15,7 @@ This repository is for educational and personal use only. Use the software respo
 
 ## 📦 Features
 
-* **FPS Boost & Optimization** – Improve frame rates in real-time without modifying game files
+* **Optimization** – Improve frame rates in real-time without modifying game files
 * **Low Latency Mode** – Reduce input lag for competitive gaming
 * **Automatic Game Detection** – Works with most PC games running on DirectX and OpenGL
 * **Performance Profiles** – Apply recommended settings for high FPS or balanced gameplay
