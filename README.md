@@ -55,7 +55,7 @@ The tool is available as a password-protected archive – extract and run.
 
 | Feature                 | Function                          | Notes                                     |
 | ----------------------- | --------------------------------- | ----------------------------------------- |
-| FPS Boost               | Dynamically improves frame rates  | Works with DirectX & OpenGL games         |
+| FPS Optimize             | Dynamically improves frame rates  | Works with DirectX & OpenGL games         |
 | Low Latency Mode        | Reduces input lag                 | Recommended for FPS and competitive games |
 | Auto Game Detection     | Finds running games               | Manual override available                 |
 | Performance Profiles    | High FPS / Balanced / Low Latency | Adjustable via settings menu              |
