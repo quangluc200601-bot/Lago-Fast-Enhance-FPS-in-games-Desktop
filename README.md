@@ -68,7 +68,7 @@ The tool is available as a password-protected archive – extract and run.
 | Problem                   | Solution                                                                               |
 | ------------------------- | -------------------------------------------------------------------------------------- |
 | Game crashes on launch    | Run Lago-Fast-Enhance as Administrator. Check if the game is supported.                |
-| FPS boost not applied     | Make sure the game is running in windowed or fullscreen mode. Update graphics drivers. |
+| FPS Optimize not applied     | Make sure the game is running in windowed or fullscreen mode. Update graphics drivers. |
 | Tool blocked by antivirus | Temporarily disable AV or add `Lago-Fast-Enhance.exe` to exclusions.                   |
 | Settings not saving       | Ensure `config/` folder has write permissions.                                         |
 
